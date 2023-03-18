@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Robot-Operating-System-22314E?style=for-the-badge&logo=ROS&logoColor=white">
+<img src="https://img.shields.io/badge/RobotOperatingSystem-22314E?style=for-the-badge&logo=ROS&logoColor=white">
