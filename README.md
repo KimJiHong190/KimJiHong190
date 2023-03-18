@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **KimJiHong190/KimJiHong190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:sunny: Stacks :sunny:
+☀️ Stacks ☀️
+
+
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
